@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 * **Currently** I'm a teaching fellow at Fullstack Academy of Code
 
 **If you'd like to reach me:**
-* [<img style="height:30px;" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/>](https://linkedin.com/in/daniellahamar)
-* [<img style="height:30px;" src="https://img.icons8.com/external-kmg-design-basic-outline-kmg-design/32/000000/external-email-business-management-kmg-design-basic-outline-kmg-design.png"/>](mailto:dlahamar@gmail.com)
+* <a href="mailto:dlahamar@gmail.com" target="_blank"><img style="height:30px;" src="https://img.icons8.com/external-kmg-design-basic-outline-kmg-design/32/000000/external-email-business-management-kmg-design-basic-outline-kmg-design.png"/></a>
+* <a href="https://linkedin.com/in/daniellahamar" target="_blank"><img style="height:30px;" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
 
 **See my [portfolio](https://dannylahamar.com/) for more about me and projects I'm working on!**
 
