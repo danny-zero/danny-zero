@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 * :computer: I'm Danny, a software engineer passionate about technology and it's impact on access to healthcare
 * :hospital: Before becoming a software engineer I worked in healthcare for ten years as pharmacy technician for a children's hospital
 * When I'm not coding I enjoy [photography](https://dannylphotography.com), meditating, and slacklining
-* **Currently** I'm a teaching fellow at Fullstack Academy of Code
+* **Currently** I'm an Associate Software Engineer at Healthvana
 
 **If you'd like to reach me:**
 * <a href="mailto:dlahamar@gmail.com" target="_blank"><img style="height:30px;" src="https://img.icons8.com/external-kmg-design-basic-outline-kmg-design/32/000000/external-email-business-management-kmg-design-basic-outline-kmg-design.png"/></a>
