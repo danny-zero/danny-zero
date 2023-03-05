@@ -23,7 +23,7 @@ Here are some ideas to get you started:
 * <a href="mailto:dlahamar@gmail.com" target="_blank"><img style="height:30px;" src="https://img.icons8.com/external-kmg-design-basic-outline-kmg-design/32/000000/external-email-business-management-kmg-design-basic-outline-kmg-design.png"/></a>
 * <a href="https://linkedin.com/in/daniellahamar" target="_blank"><img style="height:30px;" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
 
-**See my [portfolio](https://dannylahamar.com/) for more about me and projects I'm working on!**
+**See my [portfolio](https://dannyl.dev/) for more about me and projects I'm working on!**
 
 
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
