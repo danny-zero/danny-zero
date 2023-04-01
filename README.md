@@ -19,11 +19,10 @@ Here are some ideas to get you started:
 * When I'm not coding I enjoy [photography](https://dannylphotography.com), meditating, playing bass, and slacklining
 * **Currently** I'm an Associate Software Engineer at [Healthvana](https://healthvana.com)
 
-**If you'd like to reach me:**
-* <a href="mailto:dlahamar@gmail.com" target="_blank"><img style="height:30px;" src="https://img.icons8.com/external-kmg-design-basic-outline-kmg-design/32/000000/external-email-business-management-kmg-design-basic-outline-kmg-design.png"/></a>
-* <a href="https://linkedin.com/in/daniellahamar" target="_blank"><img style="height:30px;" src="https://img.icons8.com/ios-filled/50/000000/linkedin.png"/></a>
+**If you'd like to reach me send me a message on LinkedIn:**
+<a href="https://linkedin.com/in/daniellahamar" target="_blank"><img style="height:24px; margin-bottom: 0px;" src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/81/LinkedIn_icon.svg/768px-LinkedIn_icon.svg.png"/></a>
 
-
+  
 <img align="left" img src="https://img.icons8.com/color/48/000000/javascript--v1.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/typescript.png"/>
 <img align="left" img src="https://img.icons8.com/color/48/000000/html-5--v1.png"/>
